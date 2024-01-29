@@ -27,3 +27,4 @@ if (xpHeroi < 1000) {
 
 // Saída de dados
 console.log("O Herói de nome " + nomeHeroi + " está no nível de " + nivelHeroi);
+
